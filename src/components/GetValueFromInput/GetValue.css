@@ -1,0 +1,15 @@
+div {
+  text-align: center;
+  padding: 30px;
+}
+
+input {
+  height: 30px;
+  width: 300px;
+  text-align: center;
+}
+button {
+  height: 30px;
+  width: 100px;
+  font-size: 20px;
+}
